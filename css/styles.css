@@ -46,9 +46,9 @@ body {
 
 .navigation {
   position: fixed;
+  inset-inline: 0; /* shorthand for left: 0; right: 0; */
   bottom: 8px;
   padding: 8px;
-  width: 100%;
   display: flex;
   gap: 32px;
   justify-content: center;
