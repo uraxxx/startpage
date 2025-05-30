@@ -46,7 +46,7 @@ body {
 
 .navigation {
   position: fixed;
-  bottom: 0;
+  bottom: 8px;
   padding: 8px;
   width: 100%;
   display: flex;
